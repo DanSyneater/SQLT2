@@ -1,0 +1,6 @@
+{
+  "name": "Tharsten SQL Intelligence",
+  "description": "A metadata and report-intelligence platform for Tharsten database analysis and SQL generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
